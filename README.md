@@ -4,7 +4,7 @@ Este projeto apresenta um dashboard desenvolvido no Power BI com uma base de dad
 
 ## Prévia do Dashboard
 
-![Prévia do Dashboard](images/dashboard-preview.png)
+![Prévia do Dashboard](dashboard-preview.png)
 
 ## Objetivo do Projeto
 
